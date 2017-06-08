@@ -1,0 +1,1 @@
+This is Anton Smid's first git Odin project git.
